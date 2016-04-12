@@ -1,17 +1,20 @@
 # Robot Masters API for Megaman/Rockman series
 Because robot masters rock! A super simple Node server listing robot masters from the Megaman/Rockman series.
 
+## Production host
+[https://megaman-robot-masters.herokuapp.com/](https://megaman-robot-masters.herokuapp.com/)
+
 The `Access-Control-Allow-Origin` header is set to `*` so that you can make requests from any domain.
 
 ##Running Locally
 * Make sure you have [Node.js](http://nodejs.org) installed.
 * Clone repo
 
-Run following commands:
+Run the following commands:
 
 ```sh
-npm install
-npm start
+$ npm install
+$ npm start
 ```
 
 Your app should now be running on [localhost:9000](http://localhost:9001/).
