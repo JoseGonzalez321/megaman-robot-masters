@@ -1,5 +1,5 @@
 # Robot Masters API for Megaman/Rockman series
-Because robot masters rock! A super simple Node server to give you that list.
+Because robot masters rock! A super simple Node server listing robot masters from the Megaman/Rockman series.
 
 The `Access-Control-Allow-Origin` header is set to `*` so that you can make requests from any domain.
 
