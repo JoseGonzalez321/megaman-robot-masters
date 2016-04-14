@@ -5,49 +5,57 @@ module.exports = [
         "id": "009", 
         "name": "Metal Man", 
         "weapon": "Metal Blade", 
-        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/69/Metalmugshot.png"
+        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/69/Metalmugshot.png",
+        "weakness": "Quick Boomerang/Metal Blade"        
     },
     {
         "id": "010", 
         "name": "Air Man", "weapon": 
         "Air Blade", 
-        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/af/Airmugshot.png"
+        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/af/Airmugshot.png",
+        "weakness": "Leaf Shield"
     },
     {
         "id": "011", 
         "name": "Bubble Man", 
         "weapon": "Bubble Lead", 
-        "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/5/53/Bubblemugshot.png"
+        "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/5/53/Bubblemugshot.png",
+        "weakness": "Metal Blade"
     },
     {
         "id": "012", 
         "name": "Quick Man", 
         "weapon": "Quick Boomerang", 
-        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/1a/Quickmugshot.png"
+        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/1a/Quickmugshot.png",
+        "weakness": "Time Stopper/Crash Bomber" 
     },
     {
         "id": "013", 
         "name": "Crash Man", 
         "weapon": "Crash Bomber", 
-        "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/4/47/Crashmugshot.png"
+        "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/4/47/Crashmugshot.png",
+        "weakness": "Air Shooter",        
     },
     {
         "id": "014", 
         "name": "Flash Man", 
         "weapon": "Time Stopper", 
-        "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/3/39/Flashmugshot.png"
+        "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/3/39/Flashmugshot.png",
+        "weakness": "Crash Bomber/Metal Blade"
     },
     {
         "id": "015", 
         "name": "Heat Man", 
         "weapon": "Atomic Fire", 
-        "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/c/ca/Heatmugshot.png"
+        "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/c/ca/Heatmugshot.png",
+        "weakness": "Bubble Lead"
     },
     {
         "id": "016", 
         "name": "Wood Man", 
         "weapon": "Left Shield", 
-        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/14/Woodmugshot.png"
+        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/14/Woodmugshot.png",
+        "weakness": "Atomic Fire/Air Shooter"
     },
     {
         "id": "017", 
