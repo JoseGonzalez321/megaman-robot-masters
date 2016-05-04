@@ -29,19 +29,22 @@ Returns an array of all robot masters:
     "id": "009",
     "name": "Metal Man",
     "weapon": "Metal Blade",
-    "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/69/Metalmugshot.png"
+    "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/69/Metalmugshot.png",
+    . . .
   },
   {
     "id": "010",
     "name": "Air Man",
     "weapon": "Air Blade",
-    "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/af/Airmugshot.png"
+    "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/af/Airmugshot.png",
+    . . .
   },
   {
     "id": "011",
     "name": "Bubble Man",
     "weapon": "Bubble Lead",
-    "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/5/53/Bubblemugshot.png"
+    "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/5/53/Bubblemugshot.png",
+    . . .
   },
   . . .
 ]
@@ -53,7 +56,8 @@ Returns a random robot master
   "id": "016",
   "name": "Wood Man",
   "weapon": "Left Shield",
-  "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/14/Woodmugshot.png"
+  "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/14/Woodmugshot.png",
+  . . .
 }
 ```
 
@@ -64,7 +68,8 @@ Returns a robot master by its `<id>` or Serial No. Leading `0` gets truncated. (
   "id": "014",
   "name": "Flash Man",
   "weapon": "Time Stopper",
-  "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/3/39/Flashmugshot.png"
+  "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/3/39/Flashmugshot.png",
+  . . .
 }
     
 ```
@@ -76,13 +81,15 @@ Returns robot masters with avatar (mugshot)
     "id": "009",
     "name": "Metal Man",
     "weapon": "Metal Blade",
-    "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/69/Metalmugshot.png"
+    "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/69/Metalmugshot.png",
+    . . .
   },
   {
     "id": "010",
     "name": "Air Man",
     "weapon": "Air Blade",
-    "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/af/Airmugshot.png"
+    "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/af/Airmugshot.png",
+    . . .
   },
   . . .
 ]

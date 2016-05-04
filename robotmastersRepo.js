@@ -13,5 +13,5 @@ module.exports = {
     getRandomRobotMasterById: function getRandomRobotMasterById(id) {
         let robot = robotmasters.find(r => parseInt(r.id, 10) === parseInt(id, 10));
         return robot;
-    },
+    }
 }

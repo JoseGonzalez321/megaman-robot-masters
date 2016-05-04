@@ -6,13 +6,15 @@ module.exports = [
         "name": "Metal Man", 
         "weapon": "Metal Blade", 
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/69/Metalmugshot.png",
-        "weakness": "Quick Boomerang/Metal Blade"        
+        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/e/e3/Metalsprite.png",
+        "weakness": "Quick Boomerang/Metal Blade"
     },
     {
         "id": "010", 
-        "name": "Air Man", "weapon": 
-        "Air Blade", 
+        "name": "Air Man", 
+        "weapon": "Air Blade", 
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/af/Airmugshot.png",
+        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/3/37/Airsprite.png",
         "weakness": "Leaf Shield"
     },
     {
@@ -20,6 +22,7 @@ module.exports = [
         "name": "Bubble Man", 
         "weapon": "Bubble Lead", 
         "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/5/53/Bubblemugshot.png",
+        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/d/d2/Bubblesprite.png",
         "weakness": "Metal Blade"
     },
     {
@@ -27,6 +30,7 @@ module.exports = [
         "name": "Quick Man", 
         "weapon": "Quick Boomerang", 
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/1a/Quickmugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/e/e6/Quicksprite.png",
         "weakness": "Time Stopper/Crash Bomber" 
     },
     {
@@ -34,6 +38,7 @@ module.exports = [
         "name": "Crash Man", 
         "weapon": "Crash Bomber", 
         "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/4/47/Crashmugshot.png",
+        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/7/79/Crashsprite.png",
         "weakness": "Air Shooter",        
     },
     {
@@ -41,6 +46,7 @@ module.exports = [
         "name": "Flash Man", 
         "weapon": "Time Stopper", 
         "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/3/39/Flashmugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/c3/Flashsprite.png",
         "weakness": "Crash Bomber/Metal Blade"
     },
     {
@@ -48,6 +54,7 @@ module.exports = [
         "name": "Heat Man", 
         "weapon": "Atomic Fire", 
         "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/c/ca/Heatmugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/8/8e/Heatsprite.png",
         "weakness": "Bubble Lead"
     },
     {
@@ -55,6 +62,7 @@ module.exports = [
         "name": "Wood Man", 
         "weapon": "Left Shield", 
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/14/Woodmugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/d/d3/Woodsprite.png",
         "weakness": "Atomic Fire/Air Shooter"
     },
     {
@@ -64,7 +72,7 @@ module.exports = [
     },
     {
         "id": "018", 
-        "name": "Magnet Man", 
+        "name": "Magnet Man",
         "weapon": "Magnet Missile"
     },
     {
