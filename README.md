@@ -1,6 +1,9 @@
 # Robot Masters API for Megaman/Rockman series
 Because robot masters rock! A super simple Node server listing robot masters from the Megaman/Rockman series.
 
+Simplicity inspired by Ron Swanson quotes:
+https://github.com/jamesseanwright/ron-swanson-quotes
+
 ## Production host
 [https://megaman-robot-masters.herokuapp.com/](https://megaman-robot-masters.herokuapp.com/)
 

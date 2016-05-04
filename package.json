@@ -1,7 +1,11 @@
 {
   "name": "megaman-robot-masters",
-  "version": "0.0.1",
-  "description": "Robot Masters API for Megaman/Rockman series",  
+  "version": "0.0.2",
+  "description": "Robot Masters API for Megaman/Rockman series",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoseGonzalez321/megaman-robot-masters"
+  },  
   "scripts": {
       "start": "node server.js"
   },
