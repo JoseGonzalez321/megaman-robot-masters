@@ -13,5 +13,13 @@ module.exports = {
     getRandomRobotMasterById: function getRandomRobotMasterById(id) {
         let robot = robotmasters.find(r => parseInt(r.id, 10) === parseInt(id, 10));
         return robot;
+    },
+    getRobotMastersBySeriesId: function getRobotMastersBySeriesId(seriesId) {        
+        //let robotMasters = this.getRobotMasters();
+    
+        //let result = robotMasters.filter(r => parseInt(r.series) === parseInt(id));
+        let robots = robotmasters.find(r => r.series === parseInt(seriesId));
+        console.log(robots);
+        return robots;
     }
 }

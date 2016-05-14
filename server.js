@@ -30,6 +30,14 @@ app.get('/avatarOnly', (req, res) => {
     res.json(robotsWithAvatar);
 })
 
+app.get('/bySeriesId/:id', (req,res) => {
+     let robotMasters = robotmastersRepo.getRobotMasters();
+    
+     let result = robotMasters.filter(r => r.series === parseInt(req.params.id));
+     console.log(result);
+     res.json(result);
+});
+
 app.listen(port, function() {
     console.log('Server running on port', port);
 })
