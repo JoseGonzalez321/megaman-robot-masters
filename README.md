@@ -26,7 +26,7 @@ Your app should now be running on [localhost:9001](http://localhost:9001/).
 
 ### `GET /`
 Returns an array of all robot masters:
-```
+```json
 [
   {
     "id": "009",
@@ -54,7 +54,7 @@ Returns an array of all robot masters:
 ```
 ### `GET /fightRandom`
 Returns a random robot master 
-```
+```json
 {
   "id": "016",
   "name": "Wood Man",
@@ -66,7 +66,7 @@ Returns a random robot master
 
 ### `GET /byId/<id>`
 Returns a robot master by its `<id>` or Serial No. Leading `0` gets truncated. (e.g. `'014'` - becomes -> `14`)
-```
+```json
 {
   "id": "014",
   "name": "Flash Man",
@@ -78,7 +78,7 @@ Returns a robot master by its `<id>` or Serial No. Leading `0` gets truncated. (
 ```
 ### `GET /avatarOnly`
 Returns robot masters with avatar (mugshot)
-```
+```json
 [
   {
     "id": "009",
