@@ -33,23 +33,23 @@ Returns an array of all robot masters:
     "name": "Metal Man",
     "weapon": "Metal Blade",
     "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/69/Metalmugshot.png",
-    . . .
+    ...
   },
   {
     "id": "010",
     "name": "Air Man",
     "weapon": "Air Blade",
     "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/af/Airmugshot.png",
-    . . .
+    ...
   },
   {
     "id": "011",
     "name": "Bubble Man",
     "weapon": "Bubble Lead",
     "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/5/53/Bubblemugshot.png",
-    . . .
+    ...
   },
-  . . .
+  ...
 ]
 ```
 ### `GET /fightRandom`
@@ -60,7 +60,7 @@ Returns a random robot master
   "name": "Wood Man",
   "weapon": "Left Shield",
   "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/14/Woodmugshot.png",
-  . . .
+  ...
 }
 ```
 
@@ -72,7 +72,7 @@ Returns a robot master by its `<id>` or Serial No. Leading `0` gets truncated. (
   "name": "Flash Man",
   "weapon": "Time Stopper",
   "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/3/39/Flashmugshot.png",
-  . . .
+  ...
 }
     
 ```
@@ -85,15 +85,15 @@ Returns robot masters with avatar (mugshot)
     "name": "Metal Man",
     "weapon": "Metal Blade",
     "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/69/Metalmugshot.png",
-    . . .
+    ...
   },
   {
     "id": "010",
     "name": "Air Man",
     "weapon": "Air Blade",
     "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/af/Airmugshot.png",
-    . . .
+    ...
   },
-  . . .
+  ...
 ]
 ```
