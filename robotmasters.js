@@ -137,4 +137,132 @@ module.exports = [
         "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/2/28/Shadowmugshot.png",
         "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/0/02/Shadowsprite.png"
     },
+    {
+        "series": 4,
+        "id": "025",
+        "name": "Bright Man",
+        "weapon": "Flash Stopper",
+        "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/2/28/Brightmugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/c8/Brightsprite.png"
+    },
+    {
+        "series": 4,
+        "id": "026",
+        "name": "Toad Man",
+        "weapon": "Rain Flush",
+        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/9/95/Toadmugshot.png",
+        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/c/c0/Toadsprite.png"
+    },
+    {
+        "series": 4,
+        "id": "027",
+        "name": "Drill Man",
+        "weapon": "Drill Bomb",
+        "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/8/88/Drillmugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/2/25/Drillsprite.png"
+    },
+    {
+        "series": 4,
+        "id": "028",
+        "name": "Pharaoh Man",
+        "weapon": "Pharaoh Shot",
+        "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/c/c0/Pharaohmugshot.png",
+        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/b/bb/Pharaohsprite.png"
+    },
+    {
+        "series": 4,
+        "id": "029",
+        "name": "Ring Man",
+        "weapon": "Ring Boomerang",
+        "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/b/b3/Ringmugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/b/b3/MM10WA4.png"
+    },
+    {
+        "series": 4,
+        "id": "030",
+        "name": "Dust Man",
+        "weapon": "Dust Crusher",
+        "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/c/c3/Dustmugshot.png",
+        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/4/41/Dustsprite.png"
+    },
+    {
+        "series": 4,
+        "id": "031",
+        "name": "Dive Man",
+        "weapon": "Dive Missile",
+        "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/4/4f/Divemugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/d/df/Divesprite.png"
+    },
+    {
+        "series": 4,
+        "id": "032",
+        "name": "Skull Man",
+        "weapon": "Skull Barrier",
+        "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/c/c4/Skullmugshot.png",
+        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/e/e8/Skullsprite.png"
+    },
+    {
+        "series": 5,
+        "id": "033",
+        "name": "Gravity Man",
+        "weapon": "Gravity Hold",
+        "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/2/2e/Gravitymugshot.png",
+        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/9/9d/Gravitysprite.png"
+    },
+    {
+        "series": 5,
+        "id": "034",
+        "name": "Wave Man",
+        "weapon": "Water Wave",
+        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/4/46/Wavemugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/cc/Wavesprite.png"
+    },
+    {
+        "series": 5,
+        "id": "035",
+        "name": "Stone Man",
+        "weapon": "Power Stone",
+        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/b/b2/Stonemugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/ab/Stonesprite.png"
+    },
+    {
+        "series": 5,
+        "id": "036",
+        "name": "Gyro Man",
+        "weapon": "Gyro Attack",
+        "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/f/fe/Gyromugshot.png",
+        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/c/c3/Gyrosprite.png"
+    },
+    {
+        "series": 5,
+        "id": "037",
+        "name": "Star Man",
+        "weapon": "Star Crash",
+        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/61/Starmugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/7/70/Starsprite.png"
+    },
+    {
+        "series": 5,
+        "id": "038",
+        "name": "Charge Man",
+        "weapon": "Charge Kick",
+        "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/3/39/Chargemugshot.png",
+        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/1/1a/Chargesprite.png"
+    },
+    {
+        "series": 5,
+        "id": "039",
+        "name": "Napalm Man",
+        "weapon": "Napalm Bomb",
+        "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/f/fd/Napalmmugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/aa/MM10WA5.png"
+    },    
+    {
+        "series": 5,
+        "id": "040",
+        "name": "Crystal Man",
+        "weapon": "Napalm Bomb",
+        "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/b/b8/Crystalmugshot.png",
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/ce/Crystalsprite.png"
+    }
 ];
