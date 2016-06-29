@@ -9,6 +9,7 @@ module.exports = [
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/69/Metalmugshot.png",
         "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/e/e3/Metalsprite.png",
         "weakness": "Quick Boomerang/Metal Blade",
+        "stageImg": ""
     },
     {
         "series": 2,
@@ -17,7 +18,8 @@ module.exports = [
         "weapon": "Air Blade",
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/af/Airmugshot.png",
         "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/3/37/Airsprite.png",
-        "weakness": "Leaf Shield"
+        "weakness": "Leaf Shield",
+        "stageImg": ""
     },
     {
         "series": 2,
@@ -26,7 +28,8 @@ module.exports = [
         "weapon": "Bubble Lead",
         "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/5/53/Bubblemugshot.png",
         "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/d/d2/Bubblesprite.png",
-        "weakness": "Metal Blade"
+        "weakness": "Metal Blade",
+        "stageImg": ""
     },
     {
         "series": 2,
@@ -35,7 +38,8 @@ module.exports = [
         "weapon": "Quick Boomerang",
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/1a/Quickmugshot.png",
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/e/e6/Quicksprite.png",
-        "weakness": "Time Stopper/Crash Bomber"
+        "weakness": "Time Stopper/Crash Bomber",
+        "stageImg": ""
     },
     {
         "series": 2,
@@ -45,6 +49,7 @@ module.exports = [
         "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/4/47/Crashmugshot.png",
         "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/7/79/Crashsprite.png",
         "weakness": "Air Shooter",
+        "stageImg": ""
     },
     {
         "series": 2,
@@ -53,7 +58,8 @@ module.exports = [
         "weapon": "Time Stopper",
         "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/3/39/Flashmugshot.png",
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/c3/Flashsprite.png",
-        "weakness": "Crash Bomber/Metal Blade"
+        "weakness": "Crash Bomber/Metal Blade",
+        "stageImg": ""
     },
     {
         "series": 2,
@@ -62,7 +68,8 @@ module.exports = [
         "weapon": "Atomic Fire",
         "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/c/ca/Heatmugshot.png",
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/8/8e/Heatsprite.png",
-        "weakness": "Bubble Lead"
+        "weakness": "Bubble Lead",
+        "stageImg": ""
     },
     {
         "series": 2,
@@ -71,7 +78,8 @@ module.exports = [
         "weapon": "Left Shield",
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/1/14/Woodmugshot.png",
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/d/d3/Woodsprite.png",
-        "weakness": "Atomic Fire/Air Shooter"
+        "weakness": "Atomic Fire/Air Shooter",
+        "stageImg": ""
     },
     {
         "series": 3,
@@ -80,6 +88,8 @@ module.exports = [
         "weapon": "Needle Cannon",
         "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/2/27/Needlemugshot.png",
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/a6/Needlesprite.png",
+        "weakness": "Gemini Laser",
+        "stageImg": ""
     },
     {
         "series": 3,
@@ -87,7 +97,9 @@ module.exports = [
         "name": "Magnet Man",
         "weapon": "Magnet Missile",
         "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/d/de/Magnetmugshot.png",
-        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/6/6a/Magnetsprite.png"
+        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/6/6a/Magnetsprite.png",
+        "weakness": "Spark Shock",
+        "stageImg": ""
     },
     {
         "series": 3,
@@ -95,7 +107,9 @@ module.exports = [
         "name": "Gemini Man",
         "weapon": "Gemini Laser",
         "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/7/74/Geminimugshot.png",
-        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/d/d0/MM10WA3.png"
+        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/d/d0/MM10WA3.png",
+        "weakness": "Search Snake",
+        "stageImg": ""
     },
     {
         "series": 3,
@@ -103,7 +117,9 @@ module.exports = [
         "name": "Hard Man",
         "weapon": "Hard Knuckle",
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/5/59/Hardmugshot.png",
-        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/2/2a/Hardsprite.png"
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/2/2a/Hardsprite.png",
+        "weakness": "Magnet Missile",
+        "stageImg": ""
     },
     {
         "series": 3,
@@ -111,7 +127,9 @@ module.exports = [
         "name": "Top Man",
         "weapon": "Top Spin",
         "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/1/16/Topmugshot.png",
-        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/1/11/Topsprite.png"
+        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/1/11/Topsprite.png",
+        "weakness": "Hard Knuckle",
+        "stageImg": ""
     },
     {
         "series": 3,
@@ -119,7 +137,9 @@ module.exports = [
         "name": "Snake Man",
         "weapon": "Search Snake",
         "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/e/e8/Snakemugshot.png",
-        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/3/3d/Snakesprite.png"
+        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/3/3d/Snakesprite.png",
+        "weakness": "Needle Cannon",
+        "stageImg": ""
     },
     {
         "series": 3,
@@ -127,7 +147,9 @@ module.exports = [
         "name": "Spark Man",
         "weapon": "Spark Shork",
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/a/a1/Sparkmugshot.png",
-        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/0/0b/Sparksprite.png"
+        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/0/0b/Sparksprite.png",
+        "weakness": "Shadow Blade",
+        "stageImg": ""
     },
     {
         "series": 3,
@@ -135,7 +157,9 @@ module.exports = [
         "name": "Shadow Man",
         "weapon": "Shadow Blade",
         "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/2/28/Shadowmugshot.png",
-        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/0/02/Shadowsprite.png"
+        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/0/02/Shadowsprite.png",
+        "weakness": "Top Spin",
+        "stageImg": ""
     },
     {
         "series": 4,
@@ -143,7 +167,9 @@ module.exports = [
         "name": "Bright Man",
         "weapon": "Flash Stopper",
         "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/2/28/Brightmugshot.png",
-        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/c8/Brightsprite.png"
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/c8/Brightsprite.png",
+        "weakness": "Rain Flush",
+        "stageImg": ""
     },
     {
         "series": 4,
@@ -151,7 +177,9 @@ module.exports = [
         "name": "Toad Man",
         "weapon": "Rain Flush",
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/9/95/Toadmugshot.png",
-        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/c/c0/Toadsprite.png"
+        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/c/c0/Toadsprite.png",
+        "weakness": "Drill Bomb",
+        "stageImg": ""
     },
     {
         "series": 4,
@@ -159,7 +187,9 @@ module.exports = [
         "name": "Drill Man",
         "weapon": "Drill Bomb",
         "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/8/88/Drillmugshot.png",
-        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/2/25/Drillsprite.png"
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/2/25/Drillsprite.png",
+        "weakness": "Dive Missile",
+        "stageImg": ""
     },
     {
         "series": 4,
@@ -167,7 +197,9 @@ module.exports = [
         "name": "Pharaoh Man",
         "weapon": "Pharaoh Shot",
         "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/c/c0/Pharaohmugshot.png",
-        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/b/bb/Pharaohsprite.png"
+        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/b/bb/Pharaohsprite.png",
+        "weakness": "Flash Stopper",
+        "stageImg": ""
     },
     {
         "series": 4,
@@ -175,7 +207,9 @@ module.exports = [
         "name": "Ring Man",
         "weapon": "Ring Boomerang",
         "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/b/b3/Ringmugshot.png",
-        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/b/b3/MM10WA4.png"
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/b/b3/MM10WA4.png",
+        "weakness": "Pharaoh Shot",
+        "stageImg": ""
     },
     {
         "series": 4,
@@ -183,7 +217,9 @@ module.exports = [
         "name": "Dust Man",
         "weapon": "Dust Crusher",
         "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/c/c3/Dustmugshot.png",
-        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/4/41/Dustsprite.png"
+        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/4/41/Dustsprite.png",
+        "weakness": "Ring Boomerang",
+        "stageImg": ""
     },
     {
         "series": 4,
@@ -191,7 +227,9 @@ module.exports = [
         "name": "Dive Man",
         "weapon": "Dive Missile",
         "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/4/4f/Divemugshot.png",
-        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/d/df/Divesprite.png"
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/d/df/Divesprite.png",
+        "weakness": "Skull Barrier",
+        "stageImg": ""
     },
     {
         "series": 4,
@@ -199,7 +237,9 @@ module.exports = [
         "name": "Skull Man",
         "weapon": "Skull Barrier",
         "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/c/c4/Skullmugshot.png",
-        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/e/e8/Skullsprite.png"
+        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/e/e8/Skullsprite.png",
+        "weakness": "Dust Crusher",
+        "stageImg": ""
     },
     {
         "series": 5,
@@ -207,7 +247,9 @@ module.exports = [
         "name": "Gravity Man",
         "weapon": "Gravity Hold",
         "avatar": "http://vignette3.wikia.nocookie.net/megaman/images/2/2e/Gravitymugshot.png",
-        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/9/9d/Gravitysprite.png"
+        "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/9/9d/Gravitysprite.png",
+        "weakness": "Star Crash",
+        "stageImg": ""
     },
     {
         "series": 5,
@@ -215,7 +257,9 @@ module.exports = [
         "name": "Wave Man",
         "weapon": "Water Wave",
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/4/46/Wavemugshot.png",
-        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/cc/Wavesprite.png"
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/cc/Wavesprite.png",
+        "weakness": "Charge Kick",
+        "stageImg": ""
     },
     {
         "series": 5,
@@ -223,7 +267,9 @@ module.exports = [
         "name": "Stone Man",
         "weapon": "Power Stone",
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/b/b2/Stonemugshot.png",
-        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/ab/Stonesprite.png"
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/ab/Stonesprite.png",
+        "weakness": "Napalm Bomb",
+        "stageImg": ""
     },
     {
         "series": 5,
@@ -231,7 +277,9 @@ module.exports = [
         "name": "Gyro Man",
         "weapon": "Gyro Attack",
         "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/f/fe/Gyromugshot.png",
-        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/c/c3/Gyrosprite.png"
+        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/c/c3/Gyrosprite.png",
+        "weakness": "Gravity Hold",
+        "stageImg": ""
     },
     {
         "series": 5,
@@ -239,7 +287,9 @@ module.exports = [
         "name": "Star Man",
         "weapon": "Star Crash",
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/6/61/Starmugshot.png",
-        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/7/70/Starsprite.png"
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/7/70/Starsprite.png",
+        "weakness": "Water Wave",
+        "stageImg": ""
     },
     {
         "series": 5,
@@ -247,7 +297,9 @@ module.exports = [
         "name": "Charge Man",
         "weapon": "Charge Kick",
         "avatar": "http://vignette1.wikia.nocookie.net/megaman/images/3/39/Chargemugshot.png",
-        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/1/1a/Chargesprite.png"
+        "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/1/1a/Chargesprite.png",
+        "weakness": "Power Stone",
+        "stageImg": ""
     },
     {
         "series": 5,
@@ -255,7 +307,9 @@ module.exports = [
         "name": "Napalm Man",
         "weapon": "Napalm Bomb",
         "avatar": "http://vignette4.wikia.nocookie.net/megaman/images/f/fd/Napalmmugshot.png",
-        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/aa/MM10WA5.png"
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/aa/MM10WA5.png",
+        "weakness": "Crystal Eye",
+        "stageImg": ""
     },    
     {
         "series": 5,
@@ -263,6 +317,8 @@ module.exports = [
         "name": "Crystal Man",
         "weapon": "Napalm Bomb",
         "avatar": "http://vignette2.wikia.nocookie.net/megaman/images/b/b8/Crystalmugshot.png",
-        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/ce/Crystalsprite.png"
+        "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/ce/Crystalsprite.png",
+        "weakness": "Gyro Attack",
+        "stageImg": ""
     }
 ];
